@@ -1,0 +1,14 @@
+﻿.friends-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+    .friends-wrap .friend-item {
+        /*flex-grow: 1;*/
+    }
+
+.friend-avatar {
+    height: 200px;
+}

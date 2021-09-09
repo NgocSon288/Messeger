@@ -1,0 +1,13 @@
+D:\Code\Project\Messeger\App\App.ViewModel\bin\Debug\netcoreapp3.1\App.ViewModel.deps.json
+D:\Code\Project\Messeger\App\App.ViewModel\bin\Debug\netcoreapp3.1\App.ViewModel.runtimeconfig.json
+D:\Code\Project\Messeger\App\App.ViewModel\bin\Debug\netcoreapp3.1\App.ViewModel.runtimeconfig.dev.json
+D:\Code\Project\Messeger\App\App.ViewModel\bin\Debug\netcoreapp3.1\App.ViewModel.dll
+D:\Code\Project\Messeger\App\App.ViewModel\bin\Debug\netcoreapp3.1\App.ViewModel.pdb
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.csproj.AssemblyReference.cache
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.AssemblyInfoInputs.cache
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.AssemblyInfo.cs
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.csproj.CoreCompileInputs.cache
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.dll
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.pdb
+D:\Code\Project\Messeger\App\App.ViewModel\obj\Debug\netcoreapp3.1\App.ViewModel.genruntimeconfig.cache

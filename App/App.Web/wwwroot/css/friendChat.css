@@ -1,0 +1,7 @@
+﻿.contacts_body .contacts li {
+    cursor: pointer;
+}
+
+.contacts_body .contacts li .user_info span {
+    font-size: 17px;
+}

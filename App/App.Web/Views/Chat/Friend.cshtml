@@ -1,0 +1,25 @@
+﻿@model List<AppUserViewModel>
+@{ 
+    var domain = _configuration.GetSection(SystemConstants.AppSettings.BaseAddressServer).Value;
+
+    var domainUrl = $"{domain}/{"{0}"}";
+}
+
+<div class="container friends-wrap">
+    @foreach (var item in Model)
+    {
+        <div class="friend-item mx-4 my-4">
+            <div class="card" style="width: 17rem;">
+                <img src="@(string.Format(domainUrl, item.Avatar))" class="card-img-top friend-avatar" alt="@item.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <a asp-controller="Chat" asp-action="CreatePrivateChat" asp-route-userId="@item.Id" class="btn btn-primary">Kết bạn</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts{
+    <link rel="stylesheet" href="/css/friend.css">
+}
